@@ -6,7 +6,7 @@ const swiper = new Swiper('.swiper', {
     spaceBetween: 16,    
     // slidesPerGroup: 1,
     // centeredSlides: true,
-    centerInsufficientSlides: true,
+    // centerInsufficientSlides: true,
     
     
     
